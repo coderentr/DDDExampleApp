@@ -1,0 +1,12 @@
+C:\Eren\GitProject\DDD\DDDExample\Order.Domain\bin\Debug\net6.0\Order.Domain.deps.json
+C:\Eren\GitProject\DDD\DDDExample\Order.Domain\bin\Debug\net6.0\Order.Domain.dll
+C:\Eren\GitProject\DDD\DDDExample\Order.Domain\bin\Debug\net6.0\ref\Order.Domain.dll
+C:\Eren\GitProject\DDD\DDDExample\Order.Domain\bin\Debug\net6.0\Order.Domain.pdb
+C:\Eren\GitProject\DDD\DDDExample\Order.Domain\obj\Debug\net6.0\Order.Domain.csproj.AssemblyReference.cache
+C:\Eren\GitProject\DDD\DDDExample\Order.Domain\obj\Debug\net6.0\Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eren\GitProject\DDD\DDDExample\Order.Domain\obj\Debug\net6.0\Order.Domain.AssemblyInfoInputs.cache
+C:\Eren\GitProject\DDD\DDDExample\Order.Domain\obj\Debug\net6.0\Order.Domain.AssemblyInfo.cs
+C:\Eren\GitProject\DDD\DDDExample\Order.Domain\obj\Debug\net6.0\Order.Domain.csproj.CoreCompileInputs.cache
+C:\Eren\GitProject\DDD\DDDExample\Order.Domain\obj\Debug\net6.0\Order.Domain.dll
+C:\Eren\GitProject\DDD\DDDExample\Order.Domain\obj\Debug\net6.0\ref\Order.Domain.dll
+C:\Eren\GitProject\DDD\DDDExample\Order.Domain\obj\Debug\net6.0\Order.Domain.pdb

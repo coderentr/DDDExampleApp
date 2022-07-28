@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cwfOdNedjp6H76BD76m+e3CZB0ejRnlF/HC4BNPH+Rq57K6SNMCNP71tugFtmDARqgPEX6o+h+TxTMDlM17mfw==",
+  "success": true,
+  "projectFilePath": "C:\\Eren\\GitNewProjects\\DDDExampleApp\\Order.Domain\\Order.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amatis\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Amatis\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

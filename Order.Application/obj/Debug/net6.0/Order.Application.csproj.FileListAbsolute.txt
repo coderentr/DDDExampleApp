@@ -1,0 +1,5 @@
+C:\Eren\GitProject\DDD\DDDExample\Order.Application\obj\Debug\net6.0\Order.Application.csproj.AssemblyReference.cache
+C:\Eren\GitProject\DDD\DDDExample\Order.Application\obj\Debug\net6.0\Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eren\GitProject\DDD\DDDExample\Order.Application\obj\Debug\net6.0\Order.Application.AssemblyInfoInputs.cache
+C:\Eren\GitProject\DDD\DDDExample\Order.Application\obj\Debug\net6.0\Order.Application.AssemblyInfo.cs
+C:\Eren\GitProject\DDD\DDDExample\Order.Application\obj\Debug\net6.0\Order.Application.csproj.CoreCompileInputs.cache
